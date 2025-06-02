@@ -1,4 +1,4 @@
-# 📊 Análise de Churn de Clientes — Telecom X
+# 📊 Análise Telecom X
 
 ## **1. Introdução**
 
